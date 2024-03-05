@@ -1,0 +1,8 @@
+C:/altera/91sp2/modelsim_ase/examples/work/2_4_decoder.v {1 {vlog -work work -nocovercells C:/altera/91sp2/modelsim_ase/examples/work/2_4_decoder.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module decoder24_behaviour
+
+Top level modules:
+	decoder24_behaviour
+
+} {} {}}

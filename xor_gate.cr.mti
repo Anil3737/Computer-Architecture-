@@ -1,0 +1,8 @@
+C:/altera/91sp2/modelsim_ase/examples/work/xor_gate.v {1 {vlog -work work -nocovercells C:/altera/91sp2/modelsim_ase/examples/work/xor_gate.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}}

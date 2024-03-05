@@ -1,0 +1,8 @@
+C:/altera/91sp2/modelsim_ase/examples/work/andgate.v {1 {vlog -work work -nocovercells C:/altera/91sp2/modelsim_ase/examples/work/andgate.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module andgate
+
+Top level modules:
+	andgate
+
+} {} {}}
