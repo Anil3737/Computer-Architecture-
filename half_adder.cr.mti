@@ -1,8 +1,0 @@
-C:/altera/91sp2/modelsim_ase/examples/work/half_adder.v {1 {vlog -work work -nocovercells C:/altera/91sp2/modelsim_ase/examples/work/half_adder.v
-Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
--- Compiling module half_adder
-
-Top level modules:
-	half_adder
-
-} {} {}}
